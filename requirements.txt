@@ -1,0 +1,4 @@
+gradio==5.42.0
+groq==0.31.0
+duckduckgo-search==8.1.1
+requests==2.32.5
